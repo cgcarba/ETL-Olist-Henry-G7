@@ -1,7 +1,7 @@
 # ETL-Olist-Henry-G7
 ETL and Data Analytics project, based on Olist dataset.
 
-Details
+# Details
 
 This project was made during the groupal project "Labs" module while coursing the Data Science bootcamp at soyHenry (www.soyhenry.com).
 
